@@ -17,7 +17,7 @@ A Python command-line tool for automatically forwarding email emails based on va
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/gmail-forwarder.git
+git clone https://github.com/iscolering/gmail-forwarder.git
 cd gmail-forwarder
 ```
 
